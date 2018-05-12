@@ -1,5 +1,8 @@
-unicef_commonlib
+UNICEF commonlib
 ================
+
+Generic python utilities
+
 
 Links
 -----
@@ -17,13 +20,13 @@ Links
                     :target: https://circleci.com/gh/unicef/unicef-commonlib/tree/master
 
 
-.. |dev-cov| image:: https://circleci.com/gh/unicef/etools-validator/tree/develop.svg?style=svg
-                    :target: https://circleci.com/gh/unicef/etools-validator/tree/develop
+.. |dev-cov| image:: https://circleci.com/gh/unicef/unicef-commonlib/tree/develop.svg?style=svg
+                    :target: https://circleci.com/gh/unicef/unicef-commonlib/tree/develop
 
 
 Compatibility Matrix
 --------------------
 
-.. image:: https://travis-matrix-badges.herokuapp.com/repos/unicef/etools-validator/branches/develop
+.. image:: https://travis-matrix-badges.herokuapp.com/repos/unicef/unicef-commonlib/branches/develop
 
 
